@@ -1,5 +1,12 @@
 # Health-Data-Research-Training-Resources
+
 Training resources for Health Data Researchers and Scientists
+
+| Type | Course Name | Trainer | Organisation | 
+| ---- | ----------- | ------- | ------------ |
+| Statistics |  [Regression Modelling Strategies](example_course.md) | Frank Harrell | Vanderbilt |
+
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
