@@ -1,6 +1,6 @@
 # Health-Data-Research-Training-Resources
 
-Training resources for Health Data Researchers and Scientists
+Training courses for Health Data Researchers and Scientists
 
 | Type | Course Name | Trainer | Organisation | 
 | ---- | ----------- | ------- | ------------ |
